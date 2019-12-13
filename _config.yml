@@ -1,29 +1,29 @@
 # Site wide configuration
 
-title: Site Title
+title: Shiqi Guo
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Shiqi Guo
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "A brief description of Shiqi."
+  email: shiqig94@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: fancytdy
   linkedin: #username
-  github: #username
+  github: shiqig94
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
-    plus: #username
+    plus: shiqig94
     analytics:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: fancytdy
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -33,9 +33,9 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: shiqig94
   soundcloud: #username
-  weibo: #username
+  weibo: 闲来无事改个名字
   flickr: #username
   codepen: #username
   disqus-shortname:
